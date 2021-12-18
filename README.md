@@ -1,13 +1,12 @@
-## Hi! I am [Alamin Howlader][website]
+## Hi! I am [Raju Ahmed][website]
 
 ### JavaScript Lover
 
 ### Connect with me:
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/dvlprAlamin/)
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/dvlprAlamin)
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)](https://twitter.com/dvlprAlamin)
-[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/@dvlprAlamin)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/raju-ahmed-a4ab39216/)
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/rj.raju250)
+
 
 <!-- [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/10425732/dvlpralamin) -->
 
@@ -53,7 +52,7 @@
 
 <br />
 <br />
-<img width="550px" alt="Alamin Howlader Github Stats"  src="https://github-readme-stats.vercel.app/api?username=dvlprAlamin&show_icons=true"/>
+<img width="550px" alt="Raju Ahmed Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Rjrazu&show_icons=true"/>
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Rjrazu&card_width=550)](https://github.com/Rjrazu/Rjrazu)
 
