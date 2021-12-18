@@ -1,57 +1,60 @@
-<h1 align="center">Hi 👋, I'm Raju Ahmed</h1>
+## Hi! I am [Alamin Howlader][website]
 
-<br>
+### JavaScript Lover
 
+### Connect with me:
 
-<P align="center">"Programming is 90% thinking and 10% writing"</p>
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/dvlprAlamin/)
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/dvlprAlamin)
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)](https://twitter.com/dvlprAlamin)
+[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/@dvlprAlamin)
 
-<p align="center">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="node" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-</p>
-<div style="width: 100%;" align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=tanvirstreame" alt="tanvirstreame" />
-</div>
-<table width="100%">
-  <tr>
-    <td>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=tanvirstreame&show_icons=true&hide_border=true&count_private=true" /> 
-    </td>
-    <td> 
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirstreame&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
-    </td>
-  </tr>
-<table>
+<!-- [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/10425732/dvlpralamin) -->
 
+<br />
 
+### Languages and Tools:
 
-**Languages and Tools:**  
+<img align="left" alt="HTML5" width="26px" src="https://i.ibb.co/VSmHRkv/html.png" />
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<img align="left" alt="CSS3" width="26px" src="https://i.ibb.co/g7xQSGY/css3.png" />
 
-<div style="display: flex;">
-  <div style="width: 50%;" align="center" >
-    
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tanvirstreame/)
-&nbsp; [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/tanvirstreame) 
+<img align="left" alt="Sass" width="26px" src="https://i.ibb.co/v3Sy8YW/scss.png" />
 
-   <div >
-  <div style="width: 50%;" align="center" >
-   <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=tanvirstreame">
-</a>
-  </div>
-  </div>
+<img align="left" alt="JavaScript" width="26px" src="https://i.ibb.co/XLLvh3f/js.png" />
+
+<img align="left" alt="bootstrap" width="26px" src="https://i.ibb.co/p4ynHSD/bootstrap.png" />
+
+<img align="left" alt="Material-ui" width="26px" src="https://i.ibb.co/HThxRY8/material-ui.png" />
+
+<img align="left" alt="React" width="26px" src="https://i.ibb.co/jD7j5Gv/react.png" />
+
+<img align="left" alt="Node.js" width="26px" src="https://i.ibb.co/GF9MYQn/node.png" />
+
+<img align="left" alt="Express.js" width="26px" src="https://i.ibb.co/nrbPzJp/express.png" />
+
+<img align="left" alt="MongoDB" width="26px" src="https://i.ibb.co/f4pzGjH/mongodb.png" />
+
+<img align="left" alt="Git" width="26px" src="https://i.ibb.co/mhxBpgM/reactbootstrap.png" />
+
+<img align="left" alt="Git" width="26px" src="https://i.ibb.co/bby50xs/redux.png" />
+
+<img align="left" alt="Git" width="26px" src="https://i.ibb.co/CJJ43CK/spring.png" />
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://i.ibb.co/31qMkVQ/vscode.png" />
+
+<img align="left" alt="Git" width="26px" src="https://i.ibb.co/7zs2TGW/git.png" />
+
+<img align="left" alt="Git" width="26px" src="https://i.ibb.co/fXQQ273/c.png" />
+
+<br />
+
+<br />
+
+<br />
+<br />
+<img width="550px" alt="Alamin Howlader Github Stats"  src="https://github-readme-stats.vercel.app/api?username=dvlprAlamin&show_icons=true"/>
+
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Rjrazu&card_width=550)](https://github.com/Rjrazu/Rjrazu)
+
+[website]: https://rj-razu-own.netlify.app/
